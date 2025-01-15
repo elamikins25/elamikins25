@@ -13,4 +13,4 @@
 
 
 Social
-[linkedin]: https://linkedin.com/emanuelakins
+[linkedin]: https://www.linkedin.com/in/emanuelakins/
