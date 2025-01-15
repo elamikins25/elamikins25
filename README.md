@@ -12,4 +12,5 @@
 
 
 
-
+Social
+[linkedin]: https://linkedin.com/emanuelakins
